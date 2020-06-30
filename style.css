@@ -1,0 +1,20 @@
+.grid {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  width: 400px;
+  height: 400px;
+  background-color: blue;
+}
+
+.grid div {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+}
+/*# sourceMappingURL=style.css.map */
